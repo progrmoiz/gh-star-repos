@@ -1,6 +1,6 @@
 # gh-star-repos [![Build Status](https://travis-ci.org/progrmoiz/gh-star-repos.svg?branch=master)](https://travis-ci.org/progrmoiz/gh-star-repos)
 
-> Github user repo by star
+> :octocat: Github user repo by star
 
 
 ## Install
