@@ -1,0 +1,33 @@
+{
+	"name": "gh-star-repos",
+	"version": "0.0.0",
+	"description": "Github user repo by star",
+	"license": "MIT",
+	"repository": "progrmoiz/gh-star-repos",
+	"author": {
+		"name": "Moiz",
+		"email": "progrmoiz@gmail.com",
+		"url": "github.com/progrmoiz"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"scripts": {
+		"test": "xo && ava -v"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"github",
+		"star",
+		"sort"
+	],
+	"dependencies": {
+		"gh-got": "^7.0.0"
+	},
+	"devDependencies": {
+		"ava": "^0.20.0",
+		"xo": "^0.18.2"
+	}
+}
