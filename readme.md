@@ -47,7 +47,7 @@ Default: `''`
 ##### order
 
 Type: `string`<br>
-Posible Values: `'DESC'|'ASC'`
+Posible Values: `'DESC'|'ASC'`<br>
 Default: `'DESC'`
 
 ## License
