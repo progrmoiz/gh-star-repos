@@ -46,8 +46,9 @@ Default: `''`
 
 ##### order
 
-Type: `DESC|ASC`<br>
-Default: `DESC`
+Type: `string`<br>
+Posible Values: `'DESC'|'ASC'`
+Default: `'DESC'`
 
 ## License
 
