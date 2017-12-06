@@ -1,6 +1,6 @@
 {
 	"name": "gh-star-repos",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "Github user repo by star",
 	"license": "MIT",
 	"repository": "progrmoiz/gh-star-repos",
